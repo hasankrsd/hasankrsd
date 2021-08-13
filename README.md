@@ -1,4 +1,4 @@
-![Let's build the future together](https://user-images.githubusercontent.com/73365934/129412027-cc9846cc-28fe-41d2-8026-7ecc5d5c2fd8.png)
+![Let's build the future together](https://user-images.githubusercontent.com/73365934/129412190-6c216ca6-03ea-4584-92d8-10c169ef9a29.png)
 
 - 👋 Hi, I’m Hasan Kürşad KORKMAZ
 - 👀 I’m interested in PHP, SQL
